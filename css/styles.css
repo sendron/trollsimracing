@@ -2,7 +2,7 @@ body {
     font-size: 1.5rem;
 }
 .hero {
-    background-image: url(/images/hero.jpg);
+    background-image: url(../images/hero.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,7 +39,7 @@ body {
 .yourlogohere {
     padding-top: 3rem;
     padding-bottom: 3rem;   
-    background-image: url(/images/troll-above.jpg);
+    background-image: url(../images/troll-above.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
