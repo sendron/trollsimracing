@@ -1,3 +1,7 @@
+a:link, a:visited, a:active {
+    color: #006edc;
+    font-weight: bold;
+}
 body {
     font-size: 1.5rem;
 }
@@ -8,6 +12,23 @@ body {
     background-size: cover;
     padding-top: 3rem;
     padding-bottom: 3rem;
+}
+.contact {
+    background-image: 
+        linear-gradient(
+            rgba(0, 0, 0, 0.65), 
+            rgba(0, 0, 0, 0.65)
+        ),    
+        url(../images/troll-simracing.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-top: 3rem;
 }
 .videoWrapper {
     position: relative;
@@ -25,8 +46,7 @@ body {
     border: 0;
 }
 .center-all * {
-    text-align: center;
-    
+    text-align: center;   
 }
 .intro h1 {
     margin-top: 3rem;
@@ -56,6 +76,11 @@ h1 {
 h3 {
     margin-top: 2rem;
     margin-bottom: 1rem;
+}
+h5 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;    
 }
 
 @media (max-width:768px){
