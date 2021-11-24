@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trackday-imola/static/css/main.98e13a4c.chunk.css",
+    "main.css": "/trackday-imola/static/css/main.919e61e1.chunk.css",
     "main.js": "/trackday-imola/static/js/main.ecc06430.chunk.js",
     "main.js.map": "/trackday-imola/static/js/main.ecc06430.chunk.js.map",
     "runtime-main.js": "/trackday-imola/static/js/runtime-main.69d68cdf.js",
@@ -8,7 +8,7 @@
     "static/js/2.3d290ff9.chunk.js": "/trackday-imola/static/js/2.3d290ff9.chunk.js",
     "static/js/2.3d290ff9.chunk.js.map": "/trackday-imola/static/js/2.3d290ff9.chunk.js.map",
     "index.html": "/trackday-imola/index.html",
-    "static/css/main.98e13a4c.chunk.css.map": "/trackday-imola/static/css/main.98e13a4c.chunk.css.map",
+    "static/css/main.919e61e1.chunk.css.map": "/trackday-imola/static/css/main.919e61e1.chunk.css.map",
     "static/js/2.3d290ff9.chunk.js.LICENSE.txt": "/trackday-imola/static/js/2.3d290ff9.chunk.js.LICENSE.txt",
     "static/media/GT1.3a77e53a.png": "/trackday-imola/static/media/GT1.3a77e53a.png",
     "static/media/GT3.2c8c26bb.png": "/trackday-imola/static/media/GT3.2c8c26bb.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.69d68cdf.js",
     "static/js/2.3d290ff9.chunk.js",
-    "static/css/main.98e13a4c.chunk.css",
+    "static/css/main.919e61e1.chunk.css",
     "static/js/main.ecc06430.chunk.js"
   ]
 }
