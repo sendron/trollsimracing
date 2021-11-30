@@ -52,7 +52,10 @@ body {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
-
+.background {
+    background: url(../images/background.gif) center center;
+    background-size: cover;
+}
 .inverted * {
     color: white;
 }
@@ -73,6 +76,10 @@ h1 {
     margin-top: 1rem;
     margin-bottom: 2rem;
 }
+h2 {
+    margin-top: -3rem;
+    margin-bottom: 2rem;
+}
 h3 {
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -83,8 +90,29 @@ h5 {
     font-size: 1.5rem;    
 }
 
+.top-bar {
+    background: black;
+    height: 2rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 2rem;
+}
+
+.carousel {
+    margin: 2rem;
+    border: 10px solid white;
+}
+
 @media (max-width:768px){
 
+    .carousel{
+        margin: .5rem;
+        border: 5px solid white;
+    }
+    .top-bar {
+        padding-left: 1rem;
+    }
     .m-space {
         margin-top: 1rem;
         margin-bottom: 1rem;
