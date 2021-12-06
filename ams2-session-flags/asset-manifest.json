@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ams2-session-flags/static/css/main.4152ac73.chunk.css",
-    "main.js": "/ams2-session-flags/static/js/main.3d2282b3.chunk.js",
-    "main.js.map": "/ams2-session-flags/static/js/main.3d2282b3.chunk.js.map",
+    "main.js": "/ams2-session-flags/static/js/main.46db728d.chunk.js",
+    "main.js.map": "/ams2-session-flags/static/js/main.46db728d.chunk.js.map",
     "runtime-main.js": "/ams2-session-flags/static/js/runtime-main.2ca1b884.js",
     "runtime-main.js.map": "/ams2-session-flags/static/js/runtime-main.2ca1b884.js.map",
     "static/js/2.7e7eb27d.chunk.js": "/ams2-session-flags/static/js/2.7e7eb27d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2ca1b884.js",
     "static/js/2.7e7eb27d.chunk.js",
     "static/css/main.4152ac73.chunk.css",
-    "static/js/main.3d2282b3.chunk.js"
+    "static/js/main.46db728d.chunk.js"
   ]
 }
